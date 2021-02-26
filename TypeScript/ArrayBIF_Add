@@ -1,0 +1,18 @@
+/* Write a TypeScript Program to find average of the array elements using functions provided by
+TypeScript. */
+ 
+console.clear()
+ 
+var arr = [1,2,3,4,5.5]
+ 
+var total = 0
+var avg = 0
+ 
+arr.forEach( function (value)
+{
+ total = total + value
+})
+ 
+avg = total / 5
+ 
+console.log("Average : " + avg)
