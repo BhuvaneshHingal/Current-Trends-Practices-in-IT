@@ -26,3 +26,26 @@ arr.forEach( function (value)
 
 - indexOf()
 */
+
+/*
+1. concat.
+2. every
+3. filter
+4. forEach
+5. indexOf
+6. join
+7. lastIndexOf
+8. map
+9. pop
+10. push
+11. reduce
+12. reduceRight
+13. reverse
+14. shift.
+15. unshift.
+16. slice
+17. some
+18. sort
+19. toString
+20. splice
+*/
